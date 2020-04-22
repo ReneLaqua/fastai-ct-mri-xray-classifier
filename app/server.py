@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 model_file_url = 'https://srv-file18.gofile.io/download/xWOViQ/ct_mri_xray_classifier.pth'
-model_file_name = 'model'
+model_file_name = 'ct_mri_xray_classifier'
 classes = ['ct', 'mri', 'xray']
 path = Path(__file__).parent
 
