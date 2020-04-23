@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1iOymhqeGFFH07N6NBaokWQO9C-opxikd'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1-4K0SGdtThykhElJn0JPcS2Ebct7YPI4'
 model_file_name = 'model'
 classes = ['ct', 'mri', 'xray']
 path = Path(__file__).parent
