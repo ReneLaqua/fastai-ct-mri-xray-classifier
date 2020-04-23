@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://cdn-32.anonfile.com/j37305s5of/a869f5ef-1587590945/ct_mri_xray_classifier.pth'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1iOymhqeGFFH07N6NBaokWQO9C-opxikd'
 model_file_name = 'model'
 classes = ['ct', 'mri', 'xray']
 path = Path(__file__).parent
