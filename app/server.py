@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 
-model_file_url = 'https://file.io/3Bm4EdMN'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1-4K0SGdtThykhElJn0JPcS2Ebct7YPI4'
 model_file_name = 'model'
 classes = ['ct', 'mri', 'xray']
 path = Path(__file__).parent
